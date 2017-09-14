@@ -1,5 +1,5 @@
 # Discord-Widget-API
-A simple PHP library to create your own custom discord widget.
+A simple PHP library to create your own custom discord widget. You can do things like display your channel l ist, members online, members count, get a users mic status, and more! Create your own widget with this simple API! :)
 
 Usage:
 
@@ -28,7 +28,7 @@ foreach ($channel_list as $channel) {
   }
 }
 ```
-#### Dumping data to get more details information:
+#### Dumping data to get more detailed information:
 
 ```PHP
 var_dump($discord->getRawData());
