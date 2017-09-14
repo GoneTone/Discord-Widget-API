@@ -1,6 +1,8 @@
 # Discord-Widget-API
 A simple PHP library to create your own custom discord widget. You can do things like display your channel l ist, members online, members count, get a users mic status, and more! Create your own widget with this simple API! :)
 
+Right click the server name in Discord at the top left and click "Copy ID". Paste it where it says SERVER_ID.
+
 Requires:
 - cURL Library
 
